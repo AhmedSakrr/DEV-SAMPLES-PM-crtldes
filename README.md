@@ -5,7 +5,7 @@ Sample to create a PM based custom control.
 
 LICENSE
 ===============
-* GNU GPL V2
+* Not Specified
 
 COMPILE TOOLS
 ===============
